@@ -1,1 +1,2 @@
 # odin-recipes
+In this project I will be demonstrating the skills learned with HTML. This will include adding images, text, headers, paragraphs, and so on. I will use a standard HTML boilerplate for the foundation of the website. Not only that, but I will also practice uploading this webpage onto a repository using GitHub. 
